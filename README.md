@@ -6,6 +6,8 @@
 
 ## What is GoGoCode?
 
+二欧元
+
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
