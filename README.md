@@ -6,7 +6,7 @@
 
 ## What is GoGoCode?
 
-asd123
+remove:asd123
 二欧元
 
 [中文 README](README-cn.md)
